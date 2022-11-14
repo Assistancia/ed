@@ -248,7 +248,7 @@ font-size:45px;}
 }
 .hh5 {
   text-align: center;
-  color:black;
+  color:black !important;
   font-size: 2.90625vw;
   padding: 20px;
 }
